@@ -1,6 +1,6 @@
 
 # TI-84-Snake
-A non jailbreak program to play snake on the TI-84+ CSE and TI-84+ CE  
+A non jailbreak program to play snake on the TI-84+ CSE and TI-84+ CE coded by hand in TI-Basic on my calculator during spare time at school.
 
 # Downloads & Compatibility
 This program supports both the TI-84 Plus CE (CE) and the TI-84 Plus C Silver Edition (CSE).
