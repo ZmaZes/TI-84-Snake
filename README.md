@@ -27,12 +27,21 @@ You may find that version 1.0 may work better on the CSE, or that the latest ver
 
 # Variables
 This program uses the variables listed below. Make sure not to store any important data in them before running the program. All variables (apart from H, which is used to store the high score) will have no effect on the game if changed while not running.
+
 **Number Variables:**
+
 A, B, C, D, E, F, G, H, I, J, K, L, M, O, P, Q, R, S, T, U, V, W, X, Y, Z, Ans
+
 (All number variables except for N, θ, 𝑛)
+
 **String Variables:**
+
 Str1, Str2, Str3
+
 **Function Variables:**
+
 Y₀
+
 **List Variables:**
+
 LSNAKE, LTEMPA, LTEMPB
