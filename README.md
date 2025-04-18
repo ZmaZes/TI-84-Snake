@@ -7,6 +7,7 @@ This program supports both the TI-84 Plus CE (CE) and the TI-84 Plus C Silver Ed
 You may find that version 1.0 may work better on the CSE, or that the latest version performs better when overclocked.
 
 🔗[Latest Version (v5.2)](https://github.com/ZmaZes/TI-84-Snake/releases/tag/v5.2) 
+
 🔗[Old Version (v1.0)](https://github.com/ZmaZes/TI-84-Snake/releases/tag/v5.2)
 
 # Options
