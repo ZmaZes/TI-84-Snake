@@ -12,6 +12,12 @@ You may find that version 1.0 may work better on the CSE, or that the latest ver
 
 Use the [TI Connect CE App](https://education.ti.com/en/software/details/en/CA9C74CAD02440A69FDC7189D7E1B6C2/swticonnectcesoftware#:~:text=TI%20Connect%E2%84%A2%20CE%20Software%20for%20Windows%C2%AE%20(EXE)) to transfer programs to your calculator.
 
+# Controls
+- Use the arrow keys to move
+- Press mode to pause the game
+- Press clear to end the game
+- Press clear twice to skip the game over animation
+
 # Options
 |Setting|Description|
 |--|--|
