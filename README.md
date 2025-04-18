@@ -23,7 +23,7 @@ You may find that version 1.0 may work better on the CSE, or that the latest ver
 |Tail Pattern|If enabled, every 10th piece of tail will have an orange box around it.|
 |Turn Indicators|If enabled, pieces of the tail where the player turned will form a cross instead of a dot.|
 |Head Color|Controls the color of the snake's head. Not available on the CSE due to a bug in the OS.|
-|Tail Color|Controls the color of the snake's tail. The border of the graphing window will also change to the closest color to this color, and the text on the home screen will also match this color.|
+|Tail Color|Controls the color of the snake's tail. The border of the graphing window will also change to the closest color to this color, and the text on the main menu will also match this color.|
 
 # Variables
 This program uses the variables listed below. Make sure not to store any important data in them before running the program. All variables (apart from H, which is used to store the high score) will have no effect on the game if changed while not running.
