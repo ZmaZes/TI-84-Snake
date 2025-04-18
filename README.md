@@ -6,9 +6,9 @@ A non jailbreak program to play snake on the TI-84+ CSE and TI-84+ CE coded by h
 This program supports both the TI-84 Plus CE (CE) and the TI-84 Plus C Silver Edition (CSE).
 You may find that version 1.0 may work better on the CSE, or that the latest version performs better when overclocked.
 
-🔗[Latest Version (v5.2)](https://github.com/ZmaZes/TI-84-Snake/releases/tag/v5.2) 
+🔗[Latest Version (v5.3)](https://github.com/ZmaZes/TI-84-Snake/releases/tag/v5.3) 
 
-🔗[Old Version (v1.0)](https://github.com/ZmaZes/TI-84-Snake/releases/tag/v5.2)
+🔗[Old Version (v1.0)](https://github.com/ZmaZes/TI-84-Snake/releases/tag/v1.0)
 
 # Options
 |Setting|Description|
