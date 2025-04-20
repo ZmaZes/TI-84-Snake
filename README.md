@@ -52,4 +52,4 @@ Y₀
 
 **List Variables:**
 
-LSNAKE, LTEMPA, LTEMPB
+∟SNAKE, ∟TEMPA, ∟TEMPB
